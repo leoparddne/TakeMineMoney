@@ -22,6 +22,7 @@
 .GoodBoxText {
   text-align: center;
   height: 2rem;
+  width: 30%;
 }
 .GoodBoxSellNormal {
   border-radius: 0.3rem;
