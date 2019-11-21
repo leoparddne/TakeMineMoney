@@ -1,0 +1,365 @@
+{
+    "persons":[
+        {
+            "name":"杰夫·贝佐斯",
+            "money":111900000000,
+            "img":"/protrait/JeffBezos.jpg"
+        },
+        {
+            "name":"比尔·盖茨",
+            "money":106800000000,
+            "img":"/protrait/billgates.png"
+        },
+        {
+            "name":"伯纳德·阿诺特",
+            "money":106000000000,
+            "img":"/protrait/BernardArnault.jpg"
+        },
+        {
+            "name":"沃伦•巴菲特",
+            "money":87500000000,
+            "img":"/protrait/WarrenE.Buffett.jpg"
+        },
+        {
+            "name":"马克·扎克伯格",
+            "money":71100000000,
+            "img":"/protrait/MarkElliotZuckerberg.jpg"
+        },
+        {
+            "name":"阿曼西奥·奥特加",
+            "money":70200000000,
+            "img":"/protrait/AmancioOrtega.jpg"
+        },
+        {
+            "name":"拉里·埃里森",
+            "money":68200000000,
+            "img":"/protrait/LarryEllison.jpg"
+        },
+        {
+            "name":"卡洛斯·斯利姆·埃卢",
+            "money":61600000000,
+            "img":"/protrait/CarlosSlim.jpg"
+        },
+        {
+            "name":"拉里·佩奇",
+            "money":58800000000,
+            "img":"/protrait/LawrenceEdward.jpg"
+        },
+        {
+            "name":"弗朗索瓦丝·贝当古-梅耶斯",
+            "money":57700000000,
+            "img":"/protrait/Meyers.jpg"
+        },
+        {
+            "name":"谢尔盖·布林",
+            "money":56700000000,
+            "img":"/protrait/SergeyBrin.jpg"
+        },
+        {
+            "name":"穆克什·安巴尼",
+            "money":56000000000,
+            "img":"/protrait/MukeshAmbani.jpg"
+        },
+
+        {
+            "name":"吉姆·沃尔顿",
+            "money":53400000000,
+            "img":"/protrait/JimWalton.jpg"
+        },
+        {
+            "name":"史蒂夫·鲍尔默",
+            "money":53200000000,
+            "img":"/protrait/SteveBallmer.jpg"
+        },
+        {
+            "name":"艾丽斯·沃尔顿",
+            "money":53100000000,
+            "img":"/protrait/AliceWalton.jpg"
+        },
+
+        {
+            "name":"迈克尔·布隆伯格",
+            "money":51500000000,
+            "img":"/protrait/MichaelBloomberg.jpg"
+        },
+        {
+            "name":"S.罗伯森·沃尔顿",
+            "money":46000000000,
+            "img":"/protrait/SamWalton.jpg"
+        },
+        {
+            "name":"查尔斯·科赫",
+            "money":43400000000,
+            "img":"/protrait/CharlesKoch.jpg"
+        },
+        {
+            "name":"马云",
+            "money":39400000000,
+            "img":"/protrait/jackma.jpg"
+        },
+        {
+            "name":"谢尔登·阿德尔森",
+            "money":37500000000,
+            "img":"/protrait/SheldonG.Adelson.jpg"
+        }
+    ],
+    "goods":[
+        {
+            "img":"/img/bigmac.jpg",
+            "name":"Big Mac",
+            "price":2,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/cupofcoffee.jpg",
+            "name":"Cup of Coffee",
+            "price":4,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/book.jpg",
+            "name":"Book",
+            "price":15,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/videogame.jpg",
+            "name":"Video Game",
+            "price":60,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/charity.jpg",
+            "name":"Charity",
+            "price":100,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/headphones.jpg",
+            "name":"Headphones",
+            "price":200,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/airjordans.jpg",
+            "name":"Air Jordans",
+            "price":200,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/skateboard.jpg",
+            "name":"Skateboard",
+            "price":300,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/smartphone.jpg",
+            "name":"Smartphone",
+            "price":600,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/gamingconsole.jpg",
+            "name":"Gaming Console",
+            "price":600,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/bike.jpg",
+            "name":"Bike",
+            "price":800,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/drone.jpg",
+            "name":"Drone",
+            "price":800,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/designerhandbag.jpg",
+            "name":"Designer Handbag",
+            "price":1000,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/jetski.jpg",
+            "name":"Jet Ski",
+            "price":8000,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/4ktv.jpg",
+            "name":"4K TV",
+            "price":10000,
+            "maxCount":-1
+        }
+
+        ,
+        {
+            "img":"/img/diamondring.jpg",
+            "name":"Diamond Ring",
+            "price":10000,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/rolex.jpg",
+            "name":"Rolex",
+            "price":15000,
+            "maxCount":-1
+        },
+        
+        {
+            "img":"/img/speedboat.jpg",
+            "name":"Speed boat",
+            "price":30000,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/foodtruck.jpg",
+            "name":"Food Truck",
+            "price":50000,
+            "maxCount":-1
+        }
+
+        ,
+        {
+            "img":"/img/tesla.jpg",
+            "name":"Tesla",
+            "price":70000,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/monstertruck.jpg",
+            "name":"Monster Truck",
+            "price":150000,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/helicopter.jpg",
+            "name":"Helicopter",
+            "price":175000,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/ferrari.jpg",
+            "name":"Ferrari",
+            "price":200000,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/lamborghini.jpg",
+            "name":"Lamborghini",
+            "price":200000,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/firetruck.jpg",
+            "name":"Firetruck",
+            "price":200000,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/townhouse.jpg",
+            "name":"Townhouse",
+            "price":200000,
+            "maxCount":-1
+        },
+        {
+            "img":"/img/bar.jpg",
+            "name":"Bar",
+            "price":300000,
+            "maxCount":-1
+        },
+        {
+            "img": "/img/pizzashop.jpg",
+            "name": "Pizza Shop",
+            "price": 500000,
+            "maxCount": -1
+        },
+        {
+            "img": "/img/barofgold.jpg",
+            "name": "Bar of Gold",
+            "price": 500000,
+            "maxCount": -1
+        },
+        {
+            "img": "/img/superbowlad.jpg",
+            "name": "Superbowl Ad",
+            "price": 5000000,
+            "maxCount": -1
+        },
+        {
+            "img": "/img/beachhouse.jpg",
+            "name": "Beach House",
+            "price": 5000000,
+            "maxCount": -1
+        },
+        {
+            "img": "/img/yacht.jpg",
+            "name": "Yacht",
+            "price": 10000000,
+            "maxCount": -1
+        },
+        {
+            "img": "/img/f16.jpg",
+            "name": "F16",
+            "price": 15000000,
+            "maxCount": -1
+        },
+        {
+            "img": "/img/skyscraper.jpg",
+            "name": "Skyscraper",
+            "price": 50000000,
+            "maxCount": -1
+        },
+        {
+            "img": "/img/mansion.jpg",
+            "name": "Mansion",
+            "price": 50000000,
+            "maxCount": -1
+        },
+        {
+            "img": "/img/rocket.jpg",
+            "name": "Rocket",
+            "price": 60000000,
+            "maxCount": -1
+        },
+        {
+            "img": "/img/passengerjet.jpg",
+            "name": "Passenger Jet",
+            "price": 150000000,
+            "maxCount": -1
+        },
+        {
+            "img": "/img/monalisa.jpg",
+            "name": "Mona Lisa",
+            "price": 780000000,
+            "maxCount": -1
+        },
+        {
+            "img": "/img/cruiseship.jpg",
+            "name": "Cruise Ship",
+            "price": 1200000000,
+            "maxCount": -1
+        },
+        {
+            "img": "/img/nbateam.jpg",
+            "name": "NBA Team",
+            "price": 1300000000,
+            "maxCount": -1
+        },
+        {
+            "img": "/img/mlbteam.jpg",
+            "name": "MLB Team",
+            "price": 1500000000,
+            "maxCount": -1
+        },
+        {
+            "img": "/img/nflteam.jpg",
+            "name": "NFL Team",
+            "price": 2300000000,
+            "maxCount": -1
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+.GoodBox {
+  width: 20rem;
+  height: 12rem;
+  text-align: center;
+  display: inline-block;
+  background-color: white;
+  border-radius: 0.3rem;
+}
+.GoodBoxPrice {
+  color: #2ECC71;
+  font-weight: bold;
+}
+.GoodBoxBtn {
+  background-color: #2ECC71;
+  border: none;
+  width: 4rem;
+  height: 2rem;
+  color: white;
+  font-weight: bold;
+  border-radius: 0.3rem;
+}
+.GoodBoxText {
+  text-align: center;
+  height: 2rem;
+}
+.GoodBoxSellNormal {
+  border-radius: 0.3rem;
+  background-color: #f1f2f6;
+  border: none;
+  width: 4rem;
+  height: 2rem;
+  color: white;
+  font-weight: bold;
+}
+.GoodBoxSell {
+  border-radius: 0.3rem;
+  background-color: #F53B57;
+  border: none;
+  width: 4rem;
+  height: 2rem;
+  color: white;
+  font-weight: bold;
+}
