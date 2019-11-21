@@ -335,7 +335,7 @@
             "img": "/img/monalisa.jpg",
             "name": "Mona Lisa",
             "price": 780000000,
-            "maxCount": -1
+            "maxCount": 1
         },
         {
             "img": "/img/cruiseship.jpg",
@@ -347,7 +347,7 @@
             "img": "/img/nbateam.jpg",
             "name": "NBA Team",
             "price": 1300000000,
-            "maxCount": -1
+            "maxCount": 30
         },
         {
             "img": "/img/mlbteam.jpg",
