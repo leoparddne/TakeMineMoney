@@ -353,7 +353,7 @@
             "img": "/img/mlbteam.jpg",
             "name": "MLB Team",
             "price": 1500000000,
-            "maxCount": -1
+            "maxCount": 30
         },
         {
             "img": "/img/nflteam.jpg",
