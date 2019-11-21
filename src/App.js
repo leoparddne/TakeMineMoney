@@ -118,8 +118,8 @@ class App extends React.Component {
       <div id="AppLayout">
         <div id="AppContent">
           <div className="App">
-            <div>
-              <select onChange={e => this.changeSelect(e)}>
+            <div id="AppSelect">
+              请选择要模拟的人：<select onChange={e => this.changeSelect(e)}>
                 {
                   this.state.selectData
                 }

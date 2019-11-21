@@ -13,6 +13,10 @@ body {
 #AppContent {
   flex-grow: 1;
 }
+#AppSelect {
+  text-align: center;
+  margin: 2rem;
+}
 #GoodsDataContent {
   display: flex;
   justify-content: flex-start;
