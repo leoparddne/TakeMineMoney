@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+模仿比尔盖茨体验区，可以选择众多福布斯排行榜人物
 
 ## Available Scripts
 
